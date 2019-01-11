@@ -5,7 +5,7 @@ import sys
 
 # Needs to be in lower case
 
-SCREENNAME = 'dhactu'
+SCREENNAME = 'FranckenTheo'
 
 # API help: https://dev.twitter.com/docs/api/1/get/following/ids
 url = 'http://api.twitter.com/1/followers/ids.json?screen_name=%s' % (urllib2.quote(SCREENNAME))
